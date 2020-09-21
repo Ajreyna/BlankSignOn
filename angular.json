@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BlankSignOn"
+    }
+  },
+  "defaultProject": "BlankSignOn",
+  "cli": {
+    "analytics": "9631a49e-373a-46ef-91ab-d4f982eef898"
+  }
 }
